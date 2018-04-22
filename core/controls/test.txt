@@ -1,0 +1,3134 @@
+s
+pressed: s, 3.78358507156
+released: s, 0.497042894363
+s
+pressed: s, 0.0238239765167
+released: s, 0.014888048172
+s
+pressed: s, 0.014967918396
+released: s, 0.0148100852966
+s
+pressed: s, 0.015939950943
+released: s, 0.0148620605469
+s
+pressed: s, 0.0152659416199
+released: s, 0.0147089958191
+s
+pressed: s, 0.01584815979
+released: s, 0.0148468017578
+s
+pressed: s, 0.0160181522369
+released: s, 0.0183260440826
+s
+pressed: s, 0.0134279727936
+released: s, 0.0149538516998
+s
+pressed: s, 0.0137350559235
+released: s, 0.0147070884705
+s
+pressed: s, 0.0158538818359
+released: s, 0.0147030353546
+s
+pressed: s, 0.0158860683441
+released: s, 0.0148119926453
+s
+pressed: s, 0.0176129341125
+released: s, 0.02876496315
+s
+pressed: s, 0.000947952270508
+released: s, 0.0149340629578
+s
+pressed: s, 0.0129089355469
+released: s, 0.0147151947021
+s
+pressed: s, 0.015674829483
+released: s, 0.0149731636047
+s
+pressed: s, 0.0145578384399
+released: s, 0.014787197113
+s
+pressed: s, 0.0158507823944
+released: s, 0.0150430202484
+s
+pressed: s, 0.014680147171
+released: s, 0.0150139331818
+s
+pressed: s, 0.0157930850983
+released: s, 0.0147089958191
+s
+pressed: s, 0.0151169300079
+released: s, 0.0147979259491
+s
+pressed: s, 0.0148539543152
+released: s, 0.0148181915283
+s
+pressed: s, 0.0172488689423
+released: s, 0.0148019790649
+s
+pressed: s, 0.0132369995117
+released: s, 0.015771150589
+s
+pressed: s, 0.000648021697998
+released: s, 0.0152258872986
+s
+pressed: s, 0.0305290222168
+released: s, 0.014671087265
+s
+pressed: s, 0.0151178836823
+released: s, 0.0147590637207
+s
+pressed: s, 0.0158269405365
+released: s, 0.0146639347076
+s
+pressed: s, 0.0186760425568
+released: s, 0.014897108078
+s
+pressed: s, 0.0128359794617
+released: s, 0.0146870613098
+s
+pressed: s, 0.0158658027649
+released: s, 0.0147860050201
+s
+pressed: s, 0.0207231044769
+released: s, 0.0149009227753
+s
+pressed: s, 0.0107600688934
+released: s, 0.0149638652802
+s
+pressed: s, 0.0150611400604
+released: s, 0.0301768779755
+s
+pressed: s, 0.00102019309998
+released: s, 0.0147500038147
+s
+pressed: s, 0.0150887966156
+released: s, 0.0150589942932
+s
+pressed: s, 0.0152912139893
+released: s, 0.0150368213654
+s
+pressed: s, 0.0155301094055
+released: s, 0.0151698589325
+s
+pressed: s, 0.0145289897919
+released: s, 0.0150701999664
+s
+pressed: s, 0.0153939723969
+released: s, 0.0149760246277
+s
+pressed: s, 0.0130429267883
+released: s, 0.0149910449982
+w
+pressed: w, 0.742993831635
+released: w, 0.0953760147095
+s
+pressed: s, 0.424722194672
+released: s, 0.151384830475
+s
+pressed: s, 0.816630125046
+released: s, 0.499613046646
+s
+pressed: s, 0.0269320011139
+released: s, 0.0271019935608
+s
+pressed: s, 0.000909805297852
+released: s, 0.0147449970245
+s
+pressed: s, 0.0147271156311
+released: s, 0.0147230625153
+s
+pressed: s, 0.0160348415375
+released: s, 0.0147540569305
+s
+pressed: s, 0.015636920929
+released: s, 0.0147042274475
+s
+pressed: s, 0.0158338546753
+released: s, 0.0148389339447
+s
+pressed: s, 0.0150949954987
+released: s, 0.014769077301
+s
+pressed: s, 0.0157980918884
+released: s, 0.014888048172
+s
+pressed: s, 0.0155608654022
+released: s, 0.0147840976715
+s
+pressed: s, 0.0160729885101
+released: s, 0.0199370384216
+s
+pressed: s, 0.0105969905853
+released: s, 0.0147387981415
+s
+pressed: s, 0.0146741867065
+released: s, 0.0147798061371
+w
+pressed: w, 1.63201022148
+released: w, 0.1043009758
+s
+pressed: s, 0.231527805328
+released: s, 0.0546891689301
+a
+pressed: a, 1.75314688683
+released: a, 0.112544059753
+d
+pressed: d, 0.567524909973
+released: d, 0.401755094528
+w
+pressed: w, 0.551984071732
+released: w, 0.221903800964
+s
+pressed: s, 0.584258079529
+released: s, 0.551298141479
+s
+pressed: s, 0.0123569965363
+released: s, 0.0151209831238
+s
+pressed: s, 0.000634908676147
+released: s, 0.0161850452423
+s
+pressed: s, 0.000952959060669
+released: s, 0.0147449970245
+s
+pressed: s, 0.0809059143066
+released: s, 0.0148491859436
+s
+pressed: s, 0.000615835189819
+released: s, 0.0146350860596
+s
+pressed: s, 0.000608921051025
+released: s, 0.0147161483765
+s
+pressed: s, 0.000608921051025
+released: s, 0.0145390033722
+d
+pressed: d, 0.270934104919
+released: d, 0.135364770889
+a
+pressed: a, 0.354662179947
+released: a, 0.309882879257
+w
+pressed: w, 0.351560115814
+released: w, 0.500511884689
+w
+pressed: w, 0.0250079631805
+released: w, 0.0148961544037
+w
+pressed: w, 0.0150399208069
+released: w, 0.0148270130157
+w
+pressed: w, 0.0149869918823
+released: w, 0.0149199962616
+w
+pressed: w, 0.015753030777
+released: w, 0.0148179531097
+w
+pressed: w, 0.0157389640808
+released: w, 0.0150599479675
+w
+pressed: w, 0.0153450965881
+released: w, 0.0147740840912
+w
+pressed: w, 0.0150799751282
+released: w, 0.0154640674591
+w
+pressed: w, 0.0150058269501
+released: w, 0.0148620605469
+w
+pressed: w, 0.0157940387726
+released: w, 0.0156738758087
+w
+pressed: w, 0.0139021873474
+released: w, 0.0147979259491
+w
+pressed: w, 0.0187239646912
+released: w, 0.014799118042
+w
+pressed: w, 0.0119957923889
+released: w, 0.0147860050201
+w
+pressed: w, 0.0157210826874
+released: w, 0.0148270130157
+w
+pressed: w, 0.0167510509491
+released: w, 0.0147688388824
+w
+pressed: w, 0.0147020816803
+released: w, 0.0148010253906
+w
+pressed: w, 0.0157780647278
+released: w, 0.0149848461151
+w
+pressed: w, 0.0148811340332
+released: w, 0.0147659778595
+w
+pressed: w, 0.0157730579376
+released: w, 0.015077829361
+w
+pressed: w, 0.0157241821289
+released: w, 0.0147888660431
+w
+pressed: w, 0.0154581069946
+released: w, 0.0150530338287
+w
+pressed: w, 0.0154600143433
+released: w, 0.0148129463196
+w
+pressed: w, 0.0169219970703
+released: w, 0.0148119926453
+w
+pressed: w, 0.0137429237366
+released: w, 0.014769077301
+w
+pressed: w, 0.015881061554
+released: w, 0.0147697925568
+w
+pressed: w, 0.0157251358032
+released: w, 0.0149300098419
+w
+pressed: w, 0.0158538818359
+released: w, 0.0149531364441
+w
+pressed: w, 0.00068998336792
+released: w, 0.0149660110474
+w
+pressed: w, 0.0304629802704
+released: w, 0.0148010253906
+w
+pressed: w, 0.0157518386841
+released: w, 0.0153651237488
+w
+pressed: w, 0.0144159793854
+released: w, 0.014937877655
+w
+pressed: w, 0.0171902179718
+released: w, 0.0150427818298
+w
+pressed: w, 0.0148842334747
+released: w, 0.0147929191589
+w
+pressed: w, 0.0176160335541
+released: w, 0.0149939060211
+w
+pressed: w, 0.000937938690186
+released: w, 0.0153810977936
+w
+pressed: w, 0.00195598602295
+released: w, 0.0249350070953
+w
+pressed: w, 0.0308930873871
+released: w, 0.0150308609009
+w
+pressed: w, 0.0158560276031
+released: w, 0.0174651145935
+w
+pressed: w, 0.0128209590912
+released: w, 0.0149869918823
+w
+pressed: w, 0.01056599617
+d
+pressed: d, 0.014720916748
+released: d, 0.109522104263
+released: w, 0.728476047516
+w
+pressed: w, 0.104222774506
+released: w, 0.493567228317
+w
+pressed: w, 0.0330579280853
+released: w, 0.0147678852081
+w
+pressed: w, 0.0124661922455
+released: w, 0.0147387981415
+w
+pressed: w, 0.0155520439148
+released: w, 0.0147390365601
+w
+pressed: w, 0.0110850334167
+a
+pressed: a, 0.0147590637207
+released: w, 0.231288909912
+released: a, 0.256484031677
+a
+pressed: a, 0.143455028534
+released: a, 0.135596990585
+w
+pressed: w, 0.240795850754
+released: w, 0.499210119247
+w
+pressed: w, 0.0240640640259
+released: w, 0.0147228240967
+w
+pressed: w, 0.0153210163116
+released: w, 0.0153970718384
+w
+pressed: w, 0.0165300369263
+released: w, 0.0150370597839
+w
+pressed: w, 0.0130479335785
+released: w, 0.0154540538788
+w
+pressed: w, 0.0149419307709
+released: w, 0.014820098877
+w
+pressed: w, 0.0147738456726
+released: w, 0.0155291557312
+w
+pressed: w, 0.014652967453
+released: w, 0.014976978302
+w
+pressed: w, 0.015457868576
+released: w, 0.0148479938507
+w
+pressed: w, 0.0145771503448
+released: w, 0.0148749351501
+w
+pressed: w, 0.0154418945312
+released: w, 0.0148961544037
+w
+pressed: w, 0.014848947525
+released: w, 0.0148289203644
+w
+pressed: w, 0.0151500701904
+released: w, 0.0148060321808
+w
+pressed: w, 0.0174489021301
+released: w, 0.0156021118164
+w
+pressed: w, 0.0134749412537
+released: w, 0.0147249698639
+w
+pressed: w, 0.0159471035004
+released: w, 0.0156049728394
+w
+pressed: w, 0.0143780708313
+released: w, 0.0147438049316
+w
+pressed: w, 0.0152010917664
+released: w, 0.0308940410614
+w
+pressed: w, 0.00104188919067
+released: w, 0.0147500038147
+w
+pressed: w, 0.014662027359
+released: w, 0.0147359371185
+w
+pressed: w, 0.0153930187225
+released: w, 0.0148639678955
+w
+pressed: w, 0.0156390666962
+released: w, 0.0148241519928
+w
+pressed: w, 0.0170187950134
+released: w, 0.0149521827698
+w
+pressed: w, 0.0141170024872
+released: w, 0.0147869586945
+w
+pressed: w, 0.0159220695496
+released: w, 0.0152339935303
+w
+pressed: w, 0.0153279304504
+released: w, 0.0147268772125
+w
+pressed: w, 0.0155379772186
+released: w, 0.0151381492615
+w
+pressed: w, 0.0150198936462
+released: w, 0.0147700309753
+w
+pressed: w, 0.0154480934143
+released: w, 0.0152158737183
+w
+pressed: w, 0.0157451629639
+released: w, 0.0150790214539
+w
+pressed: w, 0.0171549320221
+released: w, 0.0161199569702
+w
+pressed: w, 0.0121519565582
+released: w, 0.014858007431
+w
+pressed: w, 0.0155529975891
+released: w, 0.014888048172
+w
+pressed: w, 0.0157999992371
+released: w, 0.014937877655
+w
+pressed: w, 0.0147831439972
+released: w, 0.0147700309753
+w
+pressed: w, 0.0156118869781
+released: w, 0.0148890018463
+w
+pressed: w, 0.0156011581421
+released: w, 0.0148220062256
+w
+pressed: w, 0.0161199569702
+released: w, 0.0148680210114
+w
+pressed: w, 0.0158648490906
+released: w, 0.0147459506989
+w
+pressed: w, 0.0177381038666
+released: w, 0.0176119804382
+w
+pressed: w, 0.0108740329742
+released: w, 0.0148179531097
+w
+pressed: w, 0.0198850631714
+released: w, 0.0154299736023
+w
+pressed: w, 0.000988006591797
+released: w, 0.0155310630798
+w
+pressed: w, 0.00732684135437
+released: w, 0.0160911083221
+w
+pressed: w, 0.030690908432
+released: w, 0.0147800445557
+w
+pressed: w, 0.0157120227814
+released: w, 0.0147640705109
+w
+pressed: w, 0.014997959137
+released: w, 0.0152759552002
+w
+pressed: w, 0.0152020454407
+released: w, 0.0147008895874
+w
+pressed: w, 0.0150520801544
+released: w, 0.0149459838867
+w
+pressed: w, 0.0166590213776
+released: w, 0.0148289203644
+w
+pressed: w, 0.0145270824432
+released: w, 0.0298709869385
+w
+pressed: w, 0.000955104827881
+released: w, 0.0147299766541
+w
+pressed: w, 0.0156588554382
+released: w, 0.0147340297699
+w
+pressed: w, 0.0140919685364
+released: w, 0.0148890018463
+w
+pressed: w, 0.0155420303345
+released: w, 0.0147731304169
+w
+pressed: w, 0.0160038471222
+released: w, 0.0147919654846
+w
+pressed: w, 0.0147571563721
+released: w, 0.0147290229797
+w
+pressed: w, 0.0161328315735
+released: w, 0.0150811672211
+w
+pressed: w, 0.0143239498138
+released: w, 0.0147650241852
+w
+pressed: w, 0.0148138999939
+released: w, 0.014955997467
+w
+pressed: w, 0.0173270702362
+released: w, 0.0148019790649
+w
+pressed: w, 0.0131750106812
+released: w, 0.0150489807129
+w
+pressed: w, 0.01691198349
+released: w, 0.0148739814758
+w
+pressed: w, 0.0151870250702
+released: w, 0.0147790908813
+w
+pressed: w, 0.0130369663239
+released: w, 0.0148060321808
+w
+pressed: w, 0.0158548355103
+released: w, 0.0147111415863
+w
+pressed: w, 0.0155880451202
+released: w, 0.0148568153381
+w
+pressed: w, 0.01833319664
+released: w, 0.0147988796234
+w
+pressed: w, 0.0117189884186
+released: w, 0.0150361061096
+w
+pressed: w, 0.0161988735199
+released: w, 0.0147581100464
+w
+pressed: w, 0.0141298770905
+released: w, 0.0150940418243
+w
+pressed: w, 0.0145211219788
+released: w, 0.0147309303284
+w
+pressed: w, 0.0166800022125
+released: w, 0.015202999115
+w
+pressed: w, 0.0135478973389
+released: w, 0.014997959137
+w
+pressed: w, 0.0172960758209
+released: w, 0.014790058136
+w
+pressed: w, 0.0132019519806
+released: w, 0.0148439407349
+w
+pressed: w, 0.0147910118103
+released: w, 0.0147571563721
+w
+pressed: w, 0.0157108306885
+released: w, 0.0148429870605
+w
+pressed: w, 0.0156819820404
+released: w, 0.0148680210114
+w
+pressed: w, 0.0150141716003
+released: w, 0.0153868198395
+w
+pressed: w, 0.0156741142273
+released: w, 0.0147879123688
+w
+pressed: w, 0.015132188797
+released: w, 0.0149269104004
+w
+pressed: w, 0.0152909755707
+released: w, 0.0147700309753
+w
+pressed: w, 0.0132839679718
+released: w, 0.0158789157867
+w
+pressed: w, 0.0172040462494
+released: w, 0.0148510932922
+w
+pressed: w, 0.0171649456024
+released: w, 0.0147850513458
+w
+pressed: w, 0.0133469104767
+released: w, 0.0148360729218
+w
+pressed: w, 0.0144159793854
+released: w, 0.0148439407349
+w
+pressed: w, 0.0159139633179
+released: w, 0.0149011611938
+w
+pressed: w, 0.014643907547
+released: w, 0.0169460773468
+w
+pressed: w, 0.0140190124512
+released: w, 0.01486992836
+w
+pressed: w, 0.0152349472046
+released: w, 0.0161991119385
+w
+pressed: w, 0.00071382522583
+released: w, 0.0152351856232
+w
+pressed: w, 0.0278990268707
+released: w, 0.0147848129272
+w
+pressed: w, 0.0150780677795
+released: w, 0.0150389671326
+w
+pressed: w, 0.0154430866241
+released: w, 0.0147988796234
+w
+pressed: w, 0.0150120258331
+released: w, 0.0149350166321
+w
+pressed: w, 0.016587972641
+released: w, 0.0190320014954
+w
+pressed: w, 0.0104870796204
+released: w, 0.0147678852081
+w
+pressed: w, 0.0212361812592
+released: w, 0.0149269104004
+w
+pressed: w, 0.00981712341309
+released: w, 0.0147387981415
+w
+pressed: w, 0.0145630836487
+released: w, 0.014790058136
+w
+pressed: w, 0.015645980835
+released: w, 0.0147869586945
+w
+pressed: w, 0.0157790184021
+released: w, 0.0153779983521
+w
+pressed: w, 0.0158879756927
+released: w, 0.0147309303284
+w
+pressed: w, 0.0142900943756
+released: w, 0.015410900116
+w
+pressed: w, 0.0145580768585
+released: w, 0.0148150920868
+w
+pressed: w, 0.0155229568481
+released: w, 0.015781879425
+w
+pressed: w, 0.0147621631622
+released: w, 0.0149450302124
+w
+pressed: w, 0.0150368213654
+released: w, 0.0148251056671
+w
+pressed: w, 0.0154449939728
+released: w, 0.0148990154266
+w
+pressed: w, 0.014711856842
+released: w, 0.0147550106049
+w
+pressed: w, 0.0158150196075
+released: w, 0.0149970054626
+w
+pressed: w, 0.0153729915619
+released: w, 0.0147621631622
+w
+pressed: w, 0.0150790214539
+released: w, 0.015077829361
+w
+pressed: w, 0.015429019928
+released: w, 0.0147860050201
+w
+pressed: w, 0.0167479515076
+released: w, 0.0292210578918
+w
+pressed: w, 0.000674962997437
+released: w, 0.0146679878235
+w
+pressed: w, 0.0179121494293
+released: w, 0.014878988266
+w
+pressed: w, 0.0116260051727
+released: w, 0.0148539543152
+w
+pressed: w, 0.0158488750458
+released: w, 0.0147261619568
+w
+pressed: w, 0.0148339271545
+released: w, 0.0147640705109
+w
+pressed: w, 0.0156819820404
+released: w, 0.0147368907928
+w
+pressed: w, 0.0160751342773
+released: w, 0.0153059959412
+w
+pressed: w, 0.0144739151001
+released: w, 0.0147340297699
+w
+pressed: w, 0.0185179710388
+released: w, 0.0153090953827
+w
+pressed: w, 0.011332988739
+released: w, 0.0149688720703
+w
+pressed: w, 0.0146541595459
+released: w, 0.0149059295654
+w
+pressed: w, 0.0157730579376
+released: w, 0.0149760246277
+w
+pressed: w, 0.0168960094452
+released: w, 0.0147659778595
+w
+pressed: w, 0.0131709575653
+released: w, 0.0149488449097
+w
+pressed: w, 0.0146760940552
+released: w, 0.0147540569305
+w
+pressed: w, 0.0150148868561
+released: w, 0.0147640705109
+w
+pressed: w, 0.0156939029694
+released: w, 0.0150001049042
+w
+pressed: w, 0.0148420333862
+released: w, 0.0148918628693
+w
+pressed: w, 0.0177361965179
+released: w, 0.0147259235382
+w
+pressed: w, 0.0138289928436
+released: w, 0.0149629116058
+w
+pressed: w, 0.0156750679016
+released: w, 0.0153050422668
+w
+pressed: w, 0.0153410434723
+released: w, 0.0149660110474
+w
+pressed: w, 0.0155580043793
+released: w, 0.0174689292908
+w
+pressed: w, 0.0157539844513
+released: w, 0.0157790184021
+w
+pressed: w, 0.0109159946442
+released: w, 0.0165178775787
+w
+pressed: w, 0.000638008117676
+released: w, 0.0161790847778
+w
+pressed: w, 0.028067111969
+released: w, 0.0148949623108
+w
+pressed: w, 0.00692296028137
+released: w, 0.0148098468781
+w
+pressed: w, 1.10939216614
+released: w, 0.102823972702
+w
+pressed: w, 1.04080891609
+released: w, 0.111663103104
+w
+pressed: w, 0.654118061066
+released: w, 0.113863945007
+w
+pressed: w, 0.386961936951
+released: w, 0.497025966644
+w
+pressed: w, 0.0243360996246
+released: w, 0.0149340629578
+w
+pressed: w, 0.0150969028473
+released: w, 0.0148968696594
+w
+pressed: w, 0.0161800384521
+released: w, 0.0149869918823
+w
+pressed: w, 0.000671148300171
+released: w, 0.0147619247437
+w
+pressed: w, 0.85669708252
+released: w, 0.121726036072
+s
+pressed: s, 0.194759845734
+released: s, 0.195515155792
+s
+pressed: s, 0.417475938797
+released: s, 0.245964050293
+s
+pressed: s, 0.392036914825
+released: s, 0.24757194519
+w
+pressed: w, 32.7121610641
+released: w, 0.135168075562
+s
+pressed: s, 0.496583938599
+released: s, 0.184345960617
+s
+pressed: s, 24.5965929031
+released: s, 0.497776985168
+s
+pressed: s, 0.0245041847229
+released: s, 0.0148978233337
+s
+pressed: s, 0.0161001682281
+released: s, 0.0151178836823
+s
+pressed: s, 0.0142350196838
+released: s, 0.0148780345917
+s
+pressed: s, 0.0154860019684
+released: s, 0.0148680210114
+s
+pressed: s, 0.0161650180817
+released: s, 0.0147879123688
+s
+pressed: s, 0.0146160125732
+released: s, 0.0154061317444
+s
+pressed: s, 0.0158429145813
+released: s, 0.0147540569305
+s
+pressed: s, 0.0145299434662
+released: s, 0.0153720378876
+s
+pressed: s, 0.0154340267181
+released: s, 0.0148630142212
+s
+pressed: s, 0.0155889987946
+released: s, 0.0150899887085
+s
+pressed: s, 0.0153269767761
+released: s, 0.0149240493774
+s
+pressed: s, 0.0155439376831
+released: s, 0.0148768424988
+s
+pressed: s, 0.015280008316
+released: s, 0.0149121284485
+s
+pressed: s, 0.0155649185181
+released: s, 0.0148241519928
+s
+pressed: s, 0.0199019908905
+released: s, 0.015035867691
+s
+pressed: s, 0.0113589763641
+released: s, 0.0148329734802
+s
+pressed: s, 0.0243620872498
+released: s, 0.0168459415436
+s
+pressed: s, 0.00464916229248
+released: s, 0.0159208774567
+s
+pressed: s, 0.000765085220337
+released: s, 0.0153539180756
+s
+pressed: s, 0.00598192214966
+released: s, 0.0231711864471
+s
+pressed: s, 0.0315430164337
+released: s, 0.0154049396515
+s
+pressed: s, 0.0147788524628
+released: s, 0.0149250030518
+s
+pressed: s, 0.0181140899658
+released: s, 0.0147700309753
+s
+pressed: s, 0.00586795806885
+released: s, 0.0159649848938
+s
+pressed: s, 0.0254261493683
+released: s, 0.0157558917999
+s
+pressed: s, 0.000936985015869
+released: s, 0.0152399539948
+s
+pressed: s, 0.0239720344543
+released: s, 0.0149130821228
+s
+pressed: s, 0.0157618522644
+released: s, 0.0151200294495
+s
+pressed: s, 0.0143489837646
+released: s, 0.0147831439972
+s
+pressed: s, 0.015909910202
+released: s, 0.015506029129
+s
+pressed: s, 0.0151679515839
+released: s, 0.0149121284485
+s
+pressed: s, 0.0156638622284
+released: s, 0.0157110691071
+s
+pressed: s, 0.0149579048157
+released: s, 0.014778137207
+s
+pressed: s, 0.016340970993
+released: s, 0.014741897583
+s
+pressed: s, 0.0160830020905
+released: s, 0.0149331092834
+s
+pressed: s, 0.0137460231781
+released: s, 0.0146520137787
+s
+pressed: s, 0.016028881073
+released: s, 0.0148830413818
+s
+pressed: s, 0.0154719352722
+released: s, 0.0147521495819
+s
+pressed: s, 0.0158689022064
+released: s, 0.01518201828
+s
+pressed: s, 0.0154590606689
+released: s, 0.0148348808289
+s
+pressed: s, 0.0146880149841
+released: s, 0.0154700279236
+s
+pressed: s, 0.0151710510254
+released: s, 0.0147578716278
+s
+pressed: s, 0.0183870792389
+released: s, 0.0148110389709
+s
+pressed: s, 0.0131928920746
+released: s, 0.0148680210114
+s
+pressed: s, 0.0155940055847
+released: s, 0.0146770477295
+s
+pressed: s, 0.0160009860992
+released: s, 0.0149939060211
+s
+pressed: s, 0.0145020484924
+released: s, 0.0147941112518
+s
+pressed: s, 0.0148620605469
+released: s, 0.0151097774506
+s
+pressed: s, 0.0152781009674
+released: s, 0.0148019790649
+s
+pressed: s, 0.01948595047
+released: s, 0.0277051925659
+s
+pressed: s, 0.000938892364502
+released: s, 0.0146250724792
+s
+pressed: s, 0.0231869220734
+released: s, 0.0149059295654
+s
+pressed: s, 0.00568413734436
+released: s, 0.0147829055786
+s
+pressed: s, 0.0164139270782
+released: s, 0.0148432254791
+s
+pressed: s, 0.0163748264313
+released: s, 0.0160391330719
+s
+pressed: s, 0.0134689807892
+released: s, 0.0148508548737
+s
+pressed: s, 0.0159950256348
+released: s, 0.0296039581299
+s
+pressed: s, 0.000679016113281
+released: s, 0.0146610736847
+s
+pressed: s, 0.0150239467621
+released: s, 0.015289068222
+s
+pressed: s, 0.0147008895874
+released: s, 0.014876127243
+s
+pressed: s, 0.0154690742493
+released: s, 0.0154609680176
+s
+pressed: s, 0.0166568756104
+released: s, 0.0148830413818
+s
+pressed: s, 0.0165340900421
+released: s, 0.014720916748
+s
+pressed: s, 0.0135860443115
+released: s, 0.0148940086365
+s
+pressed: s, 0.0141780376434
+released: s, 0.0147829055786
+s
+pressed: s, 0.0165569782257
+released: s, 0.0150189399719
+s
+pressed: s, 0.0158710479736
+released: s, 0.0149500370026
+s
+pressed: s, 0.000988006591797
+released: s, 0.0154700279236
+s
+pressed: s, 0.00529503822327
+released: s, 0.0230760574341
+s
+pressed: s, 0.0298659801483
+released: s, 0.0150558948517
+s
+pressed: s, 0.0157289505005
+released: s, 0.0147299766541
+s
+pressed: s, 0.0163571834564
+released: s, 0.0152328014374
+s
+pressed: s, 0.0146780014038
+released: s, 0.0148780345917
+s
+pressed: s, 0.015557050705
+released: s, 0.0148169994354
+s
+pressed: s, 0.0157561302185
+released: s, 0.0150728225708
+s
+pressed: s, 0.0155000686646
+released: s, 0.0147290229797
+s
+pressed: s, 0.0149478912354
+released: s, 0.0148429870605
+s
+pressed: s, 0.0156900882721
+released: s, 0.0148749351501
+s
+pressed: s, 0.0145461559296
+released: s, 0.0150079727173
+s
+pressed: s, 0.015576839447
+released: s, 0.0149400234222
+s
+pressed: s, 0.0155379772186
+released: s, 0.0152661800385
+s
+pressed: s, 0.0156548023224
+released: s, 0.014876127243
+s
+pressed: s, 0.0172789096832
+released: s, 0.0148441791534
+s
+pressed: s, 0.0146808624268
+released: s, 0.0150060653687
+s
+pressed: s, 0.0144829750061
+released: s, 0.0152440071106
+s
+pressed: s, 0.0154628753662
+released: s, 0.015604019165
+s
+pressed: s, 0.0150752067566
+released: s, 0.0154328346252
+s
+pressed: s, 0.0153789520264
+released: s, 0.0152912139893
+s
+pressed: s, 0.0142979621887
+released: s, 0.0147399902344
+s
+pressed: s, 0.0146360397339
+released: s, 0.030238866806
+s
+pressed: s, 0.00107312202454
+released: s, 0.014664888382
+s
+pressed: s, 0.0150010585785
+released: s, 0.0148830413818
+s
+pressed: s, 0.0157608985901
+released: s, 0.014848947525
+s
+pressed: s, 0.0156610012054
+released: s, 0.0147380828857
+s
+pressed: s, 0.0157520771027
+released: s, 0.0148329734802
+s
+pressed: s, 0.014711856842
+released: s, 0.0147249698639
+s
+pressed: s, 0.0159451961517
+released: s, 0.0148158073425
+s
+pressed: s, 0.0175080299377
+released: s, 0.0147471427917
+s
+pressed: s, 0.0140659809113
+released: s, 0.0148859024048
+s
+pressed: s, 0.0147280693054
+released: s, 0.0147380828857
+s
+pressed: s, 0.0157849788666
+released: s, 0.0150909423828
+s
+pressed: s, 0.0145440101624
+released: s, 0.0147249698639
+s
+pressed: s, 0.0183079242706
+released: s, 0.0147609710693
+s
+pressed: s, 0.0135250091553
+released: s, 0.0150420665741
+s
+pressed: s, 0.0152261257172
+released: s, 0.0147178173065
+s
+pressed: s, 0.0183930397034
+released: s, 0.0148100852966
+s
+pressed: s, 0.0122399330139
+released: s, 0.0149300098419
+s
+pressed: s, 0.0157039165497
+released: s, 0.0151131153107
+s
+pressed: s, 0.0146880149841
+released: s, 0.0147759914398
+s
+pressed: s, 0.0155470371246
+released: s, 0.0151288509369
+s
+pressed: s, 0.0154411792755
+released: s, 0.0147449970245
+s
+pressed: s, 0.015811920166
+released: s, 0.0150458812714
+s
+pressed: s, 0.0155181884766
+released: s, 0.0147700309753
+s
+pressed: s, 0.0163908004761
+released: s, 0.0147540569305
+s
+pressed: s, 0.0147950649261
+released: s, 0.0148320198059
+s
+pressed: s, 0.0179200172424
+released: s, 0.0151419639587
+s
+pressed: s, 0.000917911529541
+released: s, 0.0148911476135
+a
+pressed: a, 0.416316986084
+released: a, 0.174156904221
+d
+pressed: d, 0.330155134201
+released: d, 0.473140001297
+s
+pressed: s, 0.259470939636
+released: s, 0.511015892029
+s
+pressed: s, 0.0208621025085
+released: s, 0.0300600528717
+s
+pressed: s, 0.000679969787598
+released: s, 0.0147459506989
+s
+pressed: s, 0.0143918991089
+released: s, 0.0149409770966
+s
+pressed: s, 0.0150589942932
+released: s, 0.0147449970245
+s
+pressed: s, 0.0157051086426
+released: s, 0.0149149894714
+s
+pressed: s, 0.0156888961792
+released: s, 0.0148341655731
+s
+pressed: s, 0.0182838439941
+released: s, 0.0148031711578
+s
+pressed: s, 0.0129759311676
+released: s, 0.014790058136
+s
+pressed: s, 0.0156128406525
+released: s, 0.0147631168365
+s
+pressed: s, 0.0158128738403
+released: s, 0.0149021148682
+s
+pressed: s, 0.0156729221344
+released: s, 0.0147511959076
+s
+pressed: s, 0.0160179138184
+released: s, 0.0149059295654
+s
+pressed: s, 0.0115089416504
+d
+pressed: d, 0.0148410797119
+released: s, 0.0155129432678
+released: d, 0.231391191483
+a
+pressed: a, 0.372193813324
+released: a, 0.329358100891
+s
+pressed: s, 0.241806983948
+released: s, 0.499371051788
+s
+pressed: s, 0.0242419242859
+released: s, 0.0147700309753
+s
+pressed: s, 0.0157408714294
+released: s, 0.0149531364441
+s
+pressed: s, 0.0156440734863
+released: s, 0.0148639678955
+s
+pressed: s, 0.0148849487305
+released: s, 0.0148360729218
+s
+pressed: s, 0.0157828330994
+released: s, 0.0150570869446
+s
+pressed: s, 0.0153338909149
+released: s, 0.0149321556091
+s
+pressed: s, 0.0156610012054
+released: s, 0.0178928375244
+s
+pressed: s, 0.0141980648041
+released: s, 0.0153579711914
+s
+pressed: s, 0.00099515914917
+released: s, 0.0151319503784
+s
+pressed: s, 0.00616598129272
+released: s, 0.0207629203796
+s
+pressed: s, 0.0307400226593
+released: s, 0.0148680210114
+s
+pressed: s, 0.0160989761353
+released: s, 0.0147359371185
+s
+pressed: s, 0.0153801441193
+released: s, 0.0153369903564
+s
+pressed: s, 0.0153939723969
+released: s, 0.0147759914398
+s
+pressed: s, 0.0147659778595
+released: s, 0.0152621269226
+s
+pressed: s, 0.0187017917633
+released: s, 0.0148730278015
+s
+pressed: s, 0.0124731063843
+released: s, 0.0148198604584
+s
+pressed: s, 0.0157940387726
+released: s, 0.0149719715118
+s
+pressed: s, 0.015604019165
+released: s, 0.0148119926453
+s
+pressed: s, 0.0148651599884
+released: s, 0.0147588253021
+s
+pressed: s, 0.0166501998901
+released: s, 0.0147488117218
+s
+pressed: s, 0.0151619911194
+released: s, 0.014778137207
+s
+pressed: s, 0.0157179832458
+released: s, 0.0148630142212
+s
+pressed: s, 0.0156500339508
+released: s, 0.014909029007
+s
+pressed: s, 0.014848947525
+released: s, 0.0158388614655
+s
+pressed: s, 0.000953197479248
+released: s, 0.014634847641
+d
+pressed: d, 0.0537030696869
+released: d, 0.199593067169
+s
+pressed: s, 0.331627845764
+released: s, 0.500487089157
+s
+pressed: s, 0.0243768692017
+released: s, 0.0147581100464
+s
+pressed: s, 0.0145690441132
+released: s, 0.0230779647827
+s
+pressed: s, 0.00320601463318
+released: s, 0.0153620243073
+w
+pressed: w, 0.0688269138336
+released: w, 0.222769021988
+s
+pressed: s, 0.282361984253
+released: s, 0.164523124695
+s
+pressed: s, 0.361993789673
+released: s, 0.500065088272
+s
+pressed: s, 0.0263569355011
+released: s, 0.0147500038147
+s
+pressed: s, 0.014240026474
+released: s, 0.0148060321808
+s
+pressed: s, 0.0155971050262
+released: s, 0.0147368907928
+s
+pressed: s, 0.015869140625
+released: s, 0.0147588253021
+s
+pressed: s, 0.0157301425934
+released: s, 0.0148208141327
+s
+pressed: s, 0.0155839920044
+released: s, 0.0149772167206
+s
+pressed: s, 0.0159969329834
+released: s, 0.0147700309753
+s
+pressed: s, 0.0174369812012
+released: s, 0.0149159431458
+s
+pressed: s, 0.0135879516602
+released: s, 0.0147471427917
+s
+pressed: s, 0.0173139572144
+released: s, 0.0148470401764
+s
+pressed: s, 0.0151438713074
+released: s, 0.0150849819183
+s
+pressed: s, 0.0138299465179
+released: s, 0.030827999115
+s
+pressed: s, 0.00114703178406
+released: s, 0.0158550739288
+s
+pressed: s, 0.0134770870209
+released: s, 0.0157759189606
+s
+pressed: s, 0.0145149230957
+released: s, 0.0150580406189
+s
+pressed: s, 0.015613079071
+released: s, 0.0147230625153
+s
+pressed: s, 0.0155057907104
+released: s, 0.015013217926
+s
+pressed: s, 0.0155107975006
+released: s, 0.0149672031403
+s
+pressed: s, 0.0129008293152
+released: s, 0.0151610374451
+w
+pressed: w, 0.383136987686
+released: w, 0.184484958649
+s
+pressed: s, 0.779891967773
+released: s, 0.500945091248
+s
+pressed: s, 0.0243010520935
+released: s, 0.0147590637207
+s
+pressed: s, 0.0157549381256
+released: s, 0.0146989822388
+s
+pressed: s, 0.0160250663757
+released: s, 0.0146999359131
+s
+pressed: s, 0.015557050705
+released: s, 0.0148589611053
+s
+pressed: s, 0.0156528949738
+released: s, 0.014710187912
+s
+pressed: s, 0.0157978534698
+released: s, 0.014997959137
+s
+pressed: s, 0.000962018966675
+released: s, 0.0146541595459
+w
+pressed: w, 0.474641799927
+released: w, 0.143679141998
+d
+pressed: d, 2.49684906006
+released: d, 0.220080852509
+a
+pressed: a, 0.17314696312
+released: a, 0.271008014679
+d
+pressed: d, 0.182973146439
+released: d, 0.500694036484
+d
+pressed: d, 0.024906873703
+released: d, 0.0147299766541
+d
+pressed: d, 0.0161991119385
+released: d, 0.0147700309753
+d
+pressed: d, 0.0152578353882
+released: d, 0.0149350166321
+d
+pressed: d, 0.00811910629272
+released: d, 0.0153608322144
+d
+pressed: d, 0.000644207000732
+released: d, 0.0214879512787
+d
+pressed: d, 0.0310790538788
+released: d, 0.0146839618683
+d
+pressed: d, 0.0174639225006
+released: d, 0.0147368907928
+d
+pressed: d, 0.0134081840515
+released: d, 0.0146968364716
+d
+pressed: d, 0.0133872032166
+released: d, 0.0155498981476
+d
+pressed: d, 0.0208559036255
+released: d, 0.0149390697479
+d
+pressed: d, 0.0136721134186
+released: d, 0.0148530006409
+d
+pressed: d, 0.014200925827
+released: d, 0.0148639678955
+d
+pressed: d, 0.0152380466461
+released: d, 0.0147700309753
+d
+pressed: d, 0.0159249305725
+released: d, 0.01486992836
+d
+pressed: d, 0.0300390720367
+released: d, 0.0159320831299
+d
+pressed: d, 0.000984907150269
+released: d, 0.0148410797119
+d
+pressed: d, 0.0129239559174
+released: d, 0.0146980285645
+d
+pressed: d, 0.0173809528351
+released: d, 0.0148150920868
+d
+pressed: d, 0.0142447948456
+released: d, 0.0147531032562
+d
+pressed: d, 0.0147941112518
+released: d, 0.0146567821503
+d
+pressed: d, 0.0160632133484
+released: d, 0.0147049427032
+d
+pressed: d, 0.015909910202
+released: d, 0.0148091316223
+d
+pressed: d, 0.0158069133759
+released: d, 0.0148549079895
+d
+pressed: d, 0.0159959793091
+released: d, 0.0147562026978
+d
+pressed: d, 0.0145688056946
+released: d, 0.0147931575775
+d
+pressed: d, 0.0158748626709
+released: d, 0.0147700309753
+d
+pressed: d, 0.00660610198975
+released: d, 0.0147778987885
+a
+pressed: a, 0.233845949173
+released: a, 0.244382143021
+a
+pressed: a, 0.45148897171
+released: a, 0.154263019562
+d
+pressed: d, 0.29154086113
+released: d, 0.147976160049
+s
+pressed: s, 0.277590036392
+released: s, 0.494254827499
+s
+pressed: s, 0.0107510089874
+released: s, 0.0198571681976
+s
+pressed: s, 0.0305619239807
+released: s, 0.0151169300079
+s
+pressed: s, 0.015331029892
+released: s, 0.014683008194
+s
+pressed: s, 0.016391992569
+released: s, 0.0148079395294
+s
+pressed: s, 0.0145289897919
+released: s, 0.0332791805267
+s
+pressed: s, 0.000679969787598
+released: s, 0.014720916748
+s
+pressed: s, 0.0125539302826
+released: s, 0.0147261619568
+s
+pressed: s, 0.0155489444733
+released: s, 0.0153970718384
+s
+pressed: s, 0.015172958374
+released: s, 0.0148918628693
+s
+pressed: s, 0.0156531333923
+released: s, 0.0147168636322
+s
+pressed: s, 0.0158221721649
+released: s, 0.0149028301239
+s
+pressed: s, 0.0155320167542
+released: s, 0.0147340297699
+s
+pressed: s, 0.0157849788666
+released: s, 0.0148530006409
+s
+pressed: s, 0.015613079071
+released: s, 0.0148169994354
+s
+pressed: s, 0.0157830715179
+released: s, 0.0149238109589
+s
+pressed: s, 0.01544713974
+released: s, 0.0147550106049
+s
+pressed: s, 0.0174939632416
+released: s, 0.014769077301
+s
+pressed: s, 0.0141968727112
+released: s, 0.01486992836
+s
+pressed: s, 0.0154640674591
+released: s, 0.0147769451141
+s
+pressed: s, 0.0158250331879
+released: s, 0.0147659778595
+s
+pressed: s, 0.0156540870667
+released: s, 0.0146670341492
+s
+pressed: s, 0.015960931778
+released: s, 0.0148940086365
+s
+pressed: s, 0.0155310630798
+released: s, 0.0149300098419
+s
+pressed: s, 0.0156848430634
+released: s, 0.0149161815643
+s
+pressed: s, 0.0156049728394
+released: s, 0.0147569179535
+s
+pressed: s, 0.0181529521942
+released: s, 0.0147700309753
+s
+pressed: s, 0.0132410526276
+released: s, 0.0147860050201
+s
+pressed: s, 0.015636920929
+released: s, 0.0147521495819
+s
+pressed: s, 0.0157659053802
+released: s, 0.0148019790649
+s
+pressed: s, 0.0160689353943
+released: s, 0.0147581100464
+s
+pressed: s, 0.0154449939728
+released: s, 0.0148479938507
+s
+pressed: s, 0.0167269706726
+released: s, 0.0148220062256
+s
+pressed: s, 0.0144419670105
+released: s, 0.0148410797119
+s
+pressed: s, 0.0159649848938
+released: s, 0.0148079395294
+s
+pressed: s, 0.0174331665039
+released: s, 0.0147788524628
+s
+pressed: s, 0.0129110813141
+released: s, 0.0148448944092
+s
+pressed: s, 0.0156831741333
+released: s, 0.0154287815094
+s
+pressed: s, 0.000928163528442
+released: s, 0.0154008865356
+s
+pressed: s, 0.0286231040955
+released: s, 0.0147750377655
+s
+pressed: s, 0.015615940094
+released: s, 0.0148639678955
+s
+pressed: s, 0.0160729885101
+released: s, 0.0147709846497
+s
+pressed: s, 0.0151569843292
+released: s, 0.0149459838867
+s
+pressed: s, 0.015830039978
+released: s, 0.0148339271545
+s
+pressed: s, 0.0154151916504
+released: s, 0.0148668289185
+s
+pressed: s, 0.0157580375671
+released: s, 0.014778137207
+s
+pressed: s, 0.0156848430634
+released: s, 0.014867067337
+s
+pressed: s, 0.014955997467
+released: s, 0.0156509876251
+s
+pressed: s, 0.0145211219788
+released: s, 0.0154829025269
+s
+pressed: s, 0.00092887878418
+released: s, 0.0153300762177
+s
+pressed: s, 0.0286140441895
+released: s, 0.0147640705109
+s
+pressed: s, 0.025444984436
+released: s, 0.014878988266
+s
+pressed: s, 0.00616693496704
+released: s, 0.0148138999939
+s
+pressed: s, 0.0158581733704
+released: s, 0.0148718357086
+s
+pressed: s, 0.0147521495819
+released: s, 0.0148029327393
+s
+pressed: s, 0.0181140899658
+released: s, 0.0148079395294
+s
+pressed: s, 0.0164380073547
+released: s, 0.0148689746857
+s
+pressed: s, 0.0125529766083
+released: s, 0.0147490501404
+s
+pressed: s, 0.0158150196075
+released: s, 0.014760017395
+s
+pressed: s, 0.015478849411
+released: s, 0.0147540569305
+s
+pressed: s, 0.0159521102905
+released: s, 0.0148808956146
+s
+pressed: s, 0.00102400779724
+released: s, 0.0146551132202
+w
+pressed: w, 0.198772907257
+released: w, 0.171780109406
+d
+pressed: d, 0.422272920609
+released: d, 0.221654891968
+a
+pressed: a, 0.202164173126
+released: a, 0.212456941605
+s
+pressed: s, 0.152934074402
+released: s, 0.499542951584
+s
+pressed: s, 0.0250358581543
+released: s, 0.014885187149
+s
+pressed: s, 0.014655828476
+released: s, 0.0149700641632
+s
+pressed: s, 0.0178699493408
+released: s, 0.0147449970245
+s
+pressed: s, 0.0176639556885
+released: s, 0.0147740840912
+s
+pressed: s, 0.0117211341858
+released: s, 0.0147168636322
+s
+pressed: s, 0.0170359611511
+released: s, 0.0147440433502
+s
+pressed: s, 0.0138280391693
+released: s, 0.0294780731201
+s
+pressed: s, 0.00685000419617
+released: s, 0.0149478912354
+s
+pressed: s, 0.00912189483643
+released: s, 0.0148231983185
+s
+pressed: s, 0.0154569149017
+released: s, 0.0148589611053
+s
+pressed: s, 0.0156140327454
+released: s, 0.0147459506989
+s
+pressed: s, 0.0226130485535
+released: s, 0.0147109031677
+s
+pressed: s, 0.0100021362305
+released: s, 0.0146849155426
+s
+pressed: s, 0.0152249336243
+released: s, 0.0149011611938
+s
+pressed: s, 0.0142579078674
+released: s, 0.0148241519928
+s
+pressed: s, 0.0155799388885
+released: s, 0.0149459838867
+s
+pressed: s, 0.0175349712372
+released: s, 0.0147879123688
+s
+pressed: s, 0.0136489868164
+released: s, 0.0158801078796
+s
+pressed: s, 0.000637054443359
+released: s, 0.0154149532318
+s
+pressed: s, 0.00619101524353
+released: s, 0.0220420360565
+s
+pressed: s, 0.0507030487061
+released: s, 0.0155849456787
+s
+pressed: s, 0.000937938690186
+released: s, 0.0146009922028
+s
+pressed: s, 0.0106270313263
+released: s, 0.0149440765381
+s
+pressed: s, 0.0144999027252
+released: s, 0.0148620605469
+s
+pressed: s, 0.0155918598175
+released: s, 0.0148379802704
+s
+pressed: s, 0.0152130126953
+released: s, 0.0147361755371
+s
+pressed: s, 0.0153880119324
+released: s, 0.0149848461151
+s
+pressed: s, 0.0157029628754
+released: s, 0.0149891376495
+s
+pressed: s, 0.015823841095
+released: s, 0.0147490501404
+s
+pressed: s, 0.0159740447998
+released: s, 0.014771938324
+s
+pressed: s, 0.0157260894775
+released: s, 0.0147390365601
+s
+pressed: s, 0.0144970417023
+released: s, 0.0148229598999
+s
+pressed: s, 0.0153770446777
+released: s, 0.0147728919983
+s
+pressed: s, 0.0152490139008
+released: s, 0.0148179531097
+s
+pressed: s, 0.0158021450043
+released: s, 0.0147387981415
+s
+pressed: s, 0.0157310962677
+released: s, 0.014848947525
+s
+pressed: s, 0.0156390666962
+released: s, 0.0147390365601
+s
+pressed: s, 0.0173718929291
+released: s, 0.0148651599884
+s
+pressed: s, 0.0132949352264
+released: s, 0.0148899555206
+s
+pressed: s, 0.00766897201538
+released: s, 0.0152699947357
+s
+pressed: s, 0.0233111381531
+released: s, 0.0147409439087
+s
+pressed: s, 0.0157768726349
+released: s, 0.014878988266
+s
+pressed: s, 0.0147030353546
+released: s, 0.0149540901184
+s
+pressed: s, 0.0156190395355
+released: s, 0.0148348808289
+s
+pressed: s, 0.0147480964661
+released: s, 0.0149550437927
+s
+pressed: s, 0.0158519744873
+released: s, 0.0147349834442
+s
+pressed: s, 0.0156559944153
+released: s, 0.0150680541992
+s
+pressed: s, 0.0157878398895
+released: s, 0.0148911476135
+s
+pressed: s, 0.0180518627167
+released: s, 0.0147390365601
+s
+pressed: s, 0.0134620666504
+released: s, 0.0147330760956
+s
+pressed: s, 0.0144557952881
+released: s, 0.014829158783
+s
+pressed: s, 0.0148780345917
+released: s, 0.0148317813873
+s
+pressed: s, 0.0155560970306
+released: s, 0.014760017395
+s
+pressed: s, 0.0158929824829
+released: s, 0.0148870944977
+s
+pressed: s, 0.0156300067902
+released: s, 0.0147459506989
+s
+pressed: s, 0.01597905159
+released: s, 0.0150949954987
+s
+pressed: s, 0.0145769119263
+released: s, 0.0146450996399
+s
+pressed: s, 0.0181758403778
+released: s, 0.0148460865021
+s
+pressed: s, 0.0124418735504
+released: s, 0.0147562026978
+s
+pressed: s, 0.0184679031372
+released: s, 0.0147631168365
+s
+pressed: s, 0.0132179260254
+released: s, 0.0147399902344
+s
+pressed: s, 0.0159409046173
+released: s, 0.0147421360016
+s
+pressed: s, 0.0158970355988
+released: s, 0.0147798061371
+s
+pressed: s, 0.0145440101624
+released: s, 0.0147671699524
+s
+pressed: s, 0.0158758163452
+released: s, 0.014820098877
+s
+pressed: s, 0.0148019790649
+released: s, 0.0147299766541
+s
+pressed: s, 0.0160200595856
+released: s, 0.0149509906769
+s
+pressed: s, 0.00677704811096
+released: s, 0.0162558555603
+s
+pressed: s, 0.000984191894531
+released: s, 0.0209839344025
+s
+pressed: s, 0.0299129486084
+released: s, 0.0147399902344
+s
+pressed: s, 0.0172929763794
+released: s, 0.0147190093994
+s
+pressed: s, 0.0135769844055
+released: s, 0.0147750377655
+s
+pressed: s, 0.0157539844513
+released: s, 0.0307710170746
+s
+pressed: s, 0.000675916671753
+released: s, 0.0146560668945
+s
+pressed: s, 0.0149600505829
+released: s, 0.0146880149841
+s
+pressed: s, 0.0158610343933
+released: s, 0.0147728919983
+s
+pressed: s, 0.0157110691071
+released: s, 0.0147478580475
+s
+pressed: s, 0.0149941444397
+released: s, 0.0234529972076
+s
+pressed: s, 0.00719094276428
+released: s, 0.0147500038147
+s
+pressed: s, 0.0157201290131
+released: s, 0.014937877655
+s
+pressed: s, 0.0158700942993
+released: s, 0.0148799419403
+s
+pressed: s, 0.0144670009613
+released: s, 0.0147569179535
+s
+pressed: s, 0.0158140659332
+released: s, 0.0146908760071
+s
+pressed: s, 0.0149071216583
+released: s, 0.0148339271545
+s
+pressed: s, 0.0158369541168
+released: s, 0.0148601531982
+s
+pressed: s, 0.0155429840088
+released: s, 0.0147500038147
+s
+pressed: s, 0.0159208774567
+released: s, 0.0148770809174
+s
+pressed: s, 0.0155539512634
+released: s, 0.0147740840912
+s
+pressed: s, 0.0150270462036
+released: s, 0.0149059295654
+s
+pressed: s, 0.0154860019684
+released: s, 0.0146870613098
+s
+pressed: s, 0.0148329734802
+released: s, 0.0148098468781
+s
+pressed: s, 0.0158622264862
+released: s, 0.0148179531097
+s
+pressed: s, 0.0157089233398
+released: s, 0.0146911144257
+s
+pressed: s, 0.0159959793091
+released: s, 0.0147428512573
+s
+pressed: s, 0.0168051719666
+released: s, 0.0147559642792
+s
+pressed: s, 0.014760017395
+released: s, 0.0150239467621
+s
+pressed: s, 0.0152289867401
+released: s, 0.0147559642792
+s
+pressed: s, 0.0149159431458
+released: s, 0.0152111053467
+s
+pressed: s, 0.0155599117279
+released: s, 0.0157959461212
+s
+pressed: s, 0.000935077667236
+released: s, 0.014631986618
+w
+pressed: w, 0.100229024887
+released: w, 0.0890290737152
+s
+pressed: s, 0.461166858673
+released: s, 0.173560142517
+s
+pressed: s, 0.492159843445
+released: s, 0.502392053604
+s
+pressed: s, 0.0221610069275
+released: s, 0.0147421360016
+s
+pressed: s, 0.0182688236237
+released: s, 0.0147550106049
+s
+pressed: s, 0.0146470069885
+released: s, 0.0147819519043
+s
+pressed: s, 0.0141310691833
+released: s, 0.0146939754486
+s
+pressed: s, 0.0176589488983
+released: s, 0.0147171020508
+s
+pressed: s, 0.0138330459595
+released: s, 0.0147330760956
+s
+pressed: s, 0.0158557891846
+released: s, 0.014878988266
+s
+pressed: s, 0.0124440193176
+released: s, 0.0161790847778
+s
+pressed: s, 0.00065803527832
+released: s, 0.0166840553284
+s
+pressed: s, 0.0310688018799
+released: s, 0.0147740840912
+s
+pressed: s, 0.0148329734802
+released: s, 0.0149140357971
+s
+pressed: s, 0.0241320133209
+released: s, 0.0217869281769
+s
+pressed: s, 0.00111603736877
+released: s, 0.0146901607513
+s
+pressed: s, 0.0146079063416
+released: s, 0.0147929191589
+s
+pressed: s, 0.0157871246338
+released: s, 0.0147428512573
+s
+pressed: s, 0.0159070491791
+released: s, 0.0149359703064
+s
+pressed: s, 0.0144951343536
+released: s, 0.014741897583
+s
+pressed: s, 0.0161499977112
+released: s, 0.0155401229858
+s
+pressed: s, 0.0136609077454
+released: s, 0.0149381160736
+s
+pressed: s, 0.0154559612274
+released: s, 0.0155940055847
+s
+pressed: s, 0.0148749351501
+released: s, 0.0149099826813
+s
+pressed: s, 0.0187211036682
+released: s, 0.0147819519043
+s
+pressed: s, 0.0153830051422
+released: s, 0.0146968364716
+s
+pressed: s, 0.0129680633545
+released: s, 0.014701128006
+s
+pressed: s, 0.0158200263977
+released: s, 0.0147187709808
+s
+pressed: s, 0.0157661437988
+released: s, 0.0146970748901
+s
+pressed: s, 0.015026807785
+released: s, 0.0148231983185
+s
+pressed: s, 0.0155379772186
+released: s, 0.0146908760071
+s
+pressed: s, 0.0157389640808
+released: s, 0.0147800445557
+s
+pressed: s, 0.0166549682617
+released: s, 0.0147571563721
+s
+pressed: s, 0.0147609710693
+released: s, 0.0148389339447
+s
+pressed: s, 0.0169849395752
+released: s, 0.014858007431
+s
+pressed: s, 0.015212059021
+released: s, 0.0147080421448
+s
+pressed: s, 0.0151958465576
+released: s, 0.0148041248322
+s
+pressed: s, 0.014575958252
+released: s, 0.0148479938507
+s
+pressed: s, 0.0157639980316
+released: s, 0.0147750377655
+s
+pressed: s, 0.0146250724792
+released: s, 0.0147700309753
+s
+pressed: s, 0.0158438682556
+released: s, 0.014867067337
+s
+pressed: s, 0.0155839920044
+released: s, 0.0147039890289
+s
+pressed: s, 0.0155639648438
+released: s, 0.0148220062256
+s
+pressed: s, 0.015655040741
+released: s, 0.0147559642792
+s
+pressed: s, 0.0184578895569
+released: s, 0.0147521495819
+s
+pressed: s, 0.0121839046478
+released: s, 0.0147111415863
+s
+pressed: s, 0.0156908035278
+released: s, 0.0147759914398
+s
+pressed: s, 0.0154221057892
+released: s, 0.0310130119324
+s
+pressed: s, 0.000802040100098
+released: s, 0.0146589279175
+s
+pressed: s, 0.0149929523468
+released: s, 0.014778137207
+s
+pressed: s, 0.0158548355103
+released: s, 0.0146760940552
+s
+pressed: s, 0.0158541202545
+released: s, 0.014800786972
+s
+pressed: s, 0.0147030353546
+released: s, 0.0146720409393
+s
+pressed: s, 0.0147550106049
+released: s, 0.0153169631958
+s
+pressed: s, 0.0152320861816
+released: s, 0.0146420001984
+s
+pressed: s, 0.015958070755
+released: s, 0.0146148204803
+s
+pressed: s, 0.0157191753387
+released: s, 0.014750957489
+s
+pressed: s, 0.0255630016327
+released: s, 0.0157239437103
+s
+pressed: s, 0.00554490089417
+released: s, 0.0149722099304
+s
+pressed: s, 0.0125818252563
+released: s, 0.0331399440765
+s
+pressed: s, 0.000681161880493
+released: s, 0.0155708789825
+s
+pressed: s, 0.000952959060669
+released: s, 0.0151500701904
+s
+pressed: s, 0.0287771224976
+released: s, 0.0151808261871
+s
+pressed: s, 0.0154922008514
+released: s, 0.0149998664856
+s
+pressed: s, 0.0180220603943
+released: s, 0.015035867691
+s
+pressed: s, 0.0119731426239
+released: s, 0.0148959159851
+s
+pressed: s, 0.0155839920044
+released: s, 0.0147790908813
+s
+pressed: s, 0.01486992836
+released: s, 0.0147769451141
+s
+pressed: s, 0.015753030777
+released: s, 0.0147840976715
+s
+pressed: s, 0.0154910087585
+released: s, 0.0151538848877
+s
+pressed: s, 0.0150921344757
+released: s, 0.014946937561
+s
+pressed: s, 0.0156168937683
+released: s, 0.0151581764221
+s
+pressed: s, 0.015478849411
+released: s, 0.0147640705109
+s
+pressed: s, 0.0148279666901
+released: s, 0.0153319835663
+s
+pressed: s, 0.000936031341553
+released: s, 0.0146000385284
+s
+pressed: s, 0.61577296257
+released: s, 0.192682027817
+s
+pressed: s, 0.602384090424
+released: s, 0.192545890808
+s
+pressed: s, 0.500881910324
+released: s, 0.500163078308
+s
+pressed: s, 0.011775970459
+released: s, 0.0169479846954
+s
+pressed: s, 0.0269541740417
+released: s, 0.0157649517059
+s
+pressed: s, 0.0148198604584
+released: s, 0.0147681236267
+s
+pressed: s, 0.0154368877411
+released: s, 0.0156669616699
+s
+pressed: s, 0.0151600837708
+released: s, 0.0148661136627
+s
+pressed: s, 0.0159368515015
+released: s, 0.0156810283661
+s
+pressed: s, 0.000638961791992
+released: s, 0.0164060592651
+s
+pressed: s, 0.000639915466309
+released: s, 0.0287990570068
+s
+pressed: s, 0.0277230739594
+released: s, 0.0148818492889
+s
+pressed: s, 0.0156261920929
+released: s, 0.0147678852081
+s
+pressed: s, 0.0157160758972
+released: s, 0.0149228572845
+s
+pressed: s, 0.0186560153961
+released: s, 0.0148870944977
+s
+pressed: s, 0.012540102005
+released: s, 0.0152659416199
+s
+pressed: s, 0.0178990364075
+released: s, 0.0147659778595
+s
+pressed: s, 0.0124218463898
+released: s, 0.0168471336365
+s
+pressed: s, 0.00098991394043
+released: s, 0.0146491527557
+a
+pressed: a, 1.04273796082
+released: a, 0.126435995102
+d
+pressed: d, 0.35068488121
+released: d, 0.212602138519
+d
+pressed: d, 0.26268696785
+released: d, 0.499796867371
+d
+pressed: d, 0.0140581130981
+released: d, 0.0159549713135
+d
+pressed: d, 0.0244600772858
+released: d, 0.0153589248657
+d
+pressed: d, 0.0153200626373
+released: d, 0.0149610042572
+d
+pressed: d, 0.0155160427094
+released: d, 0.0150969028473
+d
+pressed: d, 0.015044927597
+released: d, 0.0150110721588
+d
+pressed: d, 0.0153520107269
+released: d, 0.0153858661652
+d
+pressed: d, 0.0151422023773
+released: d, 0.0150899887085
+d
+pressed: d, 0.0158519744873
+released: d, 0.0150890350342
+d
+pressed: d, 0.0153019428253
+released: d, 0.0149929523468
+d
+pressed: d, 0.0151901245117
+released: d, 0.0153648853302
+d
+pressed: d, 0.0144650936127
+released: d, 0.0151419639587
+d
+pressed: d, 0.0156910419464
+released: d, 0.0149970054626
+d
+pressed: d, 0.0145390033722
+released: d, 0.0151169300079
+d
+pressed: d, 0.0153028964996
+released: d, 0.0148341655731
+d
+pressed: d, 0.0149738788605
+released: d, 0.0150239467621
+d
+pressed: d, 0.0156021118164
+released: d, 0.0149838924408
+d
+pressed: d, 0.0202441215515
+released: d, 0.0150949954987
+d
+pressed: d, 0.0108249187469
+released: d, 0.0147399902344
+d
+pressed: d, 0.0157511234283
+released: d, 0.0149970054626
+d
+pressed: d, 0.0153758525848
+released: d, 0.0296931266785
+d
+pressed: d, 0.000994920730591
+released: d, 0.0146961212158
+d
+pressed: d, 0.015172958374
+released: d, 0.0150079727173
+d
+pressed: d, 0.0155019760132
+released: d, 0.0152180194855
+d
+pressed: d, 0.000650882720947
+released: d, 0.0146341323853
+s
+pressed: s, 0.310015916824
+a
+pressed: a, 0.169553995132
+released: a, 0.0827751159668
+released: s, 0.181823015213
+s
+pressed: s, 0.351521015167
+released: s, 0.499893903732
+s
+pressed: s, 0.0246119499207
+released: s, 0.0147669315338
+s
+pressed: s, 0.0158309936523
+released: s, 0.0148520469666
+s
+pressed: s, 0.0157120227814
+released: s, 0.0148160457611
+s
+pressed: s, 0.0155630111694
+released: s, 0.0149700641632
+s
+pressed: s, 0.0155580043793
+released: s, 0.0147898197174
+s
+pressed: s, 0.0165631771088
+released: s, 0.0148479938507
+s
+pressed: s, 0.0158388614655
+released: s, 0.0149781703949
+s
+pressed: s, 0.0171117782593
+released: s, 0.0147221088409
+s
+pressed: s, 0.0123119354248
+released: s, 0.0147721767426
+s
+pressed: s, 0.015900850296
+released: s, 0.0147380828857
+s
+pressed: s, 0.0144829750061
+released: s, 0.0149419307709
+s
+pressed: s, 0.0155601501465
+released: s, 0.0147550106049
+s
+pressed: s, 0.0155918598175
+released: s, 0.014867067337
+s
+pressed: s, 0.015585899353
+released: s, 0.0148060321808
+s
+pressed: s, 0.0187470912933
+released: s, 0.0147409439087
+s
+pressed: s, 0.0127530097961
+released: s, 0.0148289203644
+s
+pressed: s, 0.0155901908875
+released: s, 0.0149519443512
+s
+pressed: s, 0.0157639980316
+released: s, 0.0148389339447
+s
+pressed: s, 0.0147321224213
+released: s, 0.0147299766541
+s
+pressed: s, 0.0159277915955
+released: s, 0.0155181884766
+s
+pressed: s, 0.0151970386505
+released: s, 0.0155439376831
+s
+pressed: s, 0.000946998596191
+released: s, 0.0154149532318
+s
+pressed: s, 0.00710105895996
+released: s, 0.0208518505096
+s
+pressed: s, 0.0310151576996
+released: s, 0.0149209499359
+s
+pressed: s, 0.0149540901184
+released: s, 0.0148239135742
+s
+pressed: s, 0.0156290531158
+released: s, 0.0149688720703
+s
+pressed: s, 0.0151121616364
+released: s, 0.0149068832397
+s
+pressed: s, 0.0154240131378
+released: s, 0.0147519111633
+s
+pressed: s, 0.0154390335083
+released: s, 0.0148661136627
+s
+pressed: s, 0.0157208442688
+released: s, 0.0148210525513
+s
+pressed: s, 0.0157830715179
+released: s, 0.0148360729218
+s
+pressed: s, 0.0145819187164
+released: s, 0.0148260593414
+s
+pressed: s, 0.0157740116119
+released: s, 0.0149478912354
+s
+pressed: s, 0.0146930217743
+released: s, 0.01478099823
+s
+pressed: s, 0.0157179832458
+released: s, 0.0148499011993
+s
+pressed: s, 0.0156600475311
+released: s, 0.0147271156311
+s
+pressed: s, 0.01837682724
+released: s, 0.0150260925293
+s
+pressed: s, 0.0137591362
+released: s, 0.0148749351501
+s
+pressed: s, 0.0157639980316
+released: s, 0.0148069858551
+s
+pressed: s, 0.0145659446716
+released: s, 0.0148680210114
+s
+pressed: s, 0.015722990036
+released: s, 0.0148379802704
+s
+pressed: s, 0.0147790908813
+released: s, 0.0148630142212
+s
+pressed: s, 0.0156168937683
+released: s, 0.0147390365601
+s
+pressed: s, 0.0157029628754
+released: s, 0.0149900913239
+s
+pressed: s, 0.0156810283661
+released: s, 0.0148048400879
+s
+pressed: s, 0.0156471729279
+released: s, 0.0149629116058
+s
+pressed: s, 0.014631986618
+released: s, 0.0147740840912
+s
+pressed: s, 0.0161149501801
+released: s, 0.0148270130157
+s
+pressed: s, 0.0143799781799
+released: s, 0.0147709846497
+s
+pressed: s, 0.0160229206085
+released: s, 0.0149290561676
+s
+pressed: s, 0.0149540901184
+released: s, 0.0164978504181
+s
+pressed: s, 0.0151920318604
+released: s, 0.0147120952606
+s
+pressed: s, 0.0146420001984
+released: s, 0.0148348808289
+s
+pressed: s, 0.0157241821289
+released: s, 0.0147728919983
+s
+pressed: s, 0.0157198905945
+released: s, 0.0148720741272
+s
+pressed: s, 0.0153610706329
+released: s, 0.0147550106049
+s
+pressed: s, 0.0184509754181
+released: s, 0.0148379802704
+s
+pressed: s, 0.0127549171448
+released: s, 0.0306150913239
+s
+pressed: s, 0.00269198417664
+released: s, 0.0147728919983
+s
+pressed: s, 0.0113711357117
+released: s, 0.0151500701904
+s
+pressed: s, 0.0158958435059
+released: s, 0.0149540901184
+s
+pressed: s, 0.0153770446777
+released: s, 0.0148890018463
+s
+pressed: s, 0.0153529644012
+released: s, 0.0147299766541
+s
+pressed: s, 0.0159530639648
+released: s, 0.0148749351501
+s
+pressed: s, 0.0146129131317
+released: s, 0.0147640705109
+s
+pressed: s, 0.0157780647278
+released: s, 0.0149688720703
+s
+pressed: s, 0.0145680904388
+released: s, 0.014762878418
+s
+pressed: s, 0.0161921977997
+released: s, 0.0151648521423
+s
+pressed: s, 0.0150020122528
+released: s, 0.0148179531097
+s
+pressed: s, 0.0160791873932
+released: s, 0.0167338848114
+s
+pressed: s, 0.000648021697998
+released: s, 0.0153629779816
+s
+pressed: s, 0.00879907608032
+released: s, 0.01988697052
+s
+pressed: s, 0.0308399200439
+released: s, 0.0150821208954
+s
+pressed: s, 0.014536857605
+released: s, 0.0147819519043
+s
+pressed: s, 0.0156280994415
+released: s, 0.030709028244
+s
+pressed: s, 0.000684976577759
+released: s, 0.0148129463196
+s
+pressed: s, 0.0136959552765
+released: s, 0.0149600505829
+s
+pressed: s, 0.0155911445618
+released: s, 0.0148468017578
+s
+pressed: s, 0.018806219101
+released: s, 0.0147438049316
+s
+pressed: s, 0.0125970840454
+released: s, 0.0148561000824
+s
+pressed: s, 0.0163497924805
+released: s, 0.014787197113
+s
+pressed: s, 0.0158898830414
+released: s, 0.0147371292114
+s
+pressed: s, 0.0146408081055
+released: s, 0.014790058136
+s
+pressed: s, 0.0198941230774
+released: s, 0.0149238109589
+s
+pressed: s, 0.0125620365143
+released: s, 0.0148410797119
+s
+pressed: s, 0.0156989097595
+released: s, 0.0149381160736
+s
+pressed: s, 0.0156240463257
+released: s, 0.0147678852081
+s
+pressed: s, 0.0147919654846
+released: s, 0.0149121284485
+s
+pressed: s, 0.0156619548798
+released: s, 0.0147650241852
+s
+pressed: s, 0.0148298740387
+released: s, 0.0147740840912
+s
+pressed: s, 0.0157930850983
+released: s, 0.0147459506989
+s
+pressed: s, 0.015830039978
+released: s, 0.0175399780273
+s
+pressed: s, 0.0131149291992
+released: s, 0.0150051116943
+s
+pressed: s, 0.0154368877411
+released: s, 0.0146949291229
+s
+pressed: s, 0.014906167984
+released: s, 0.0148959159851
+s
+pressed: s, 0.0920579433441
+released: s, 0.0168249607086
+s
+pressed: s, 0.00119519233704
+released: s, 0.0147550106049
+s
+pressed: s, 0.000614881515503
+released: s, 0.0146949291229
+s
+pressed: s, 0.000630140304565
+released: s, 0.0145909786224
+s
+pressed: s, 0.0705108642578
+released: s, 0.0168039798737
+s
+pressed: s, 0.0010461807251
+released: s, 0.0155129432678
+s
+pressed: s, 0.000657081604004
+released: s, 0.0152008533478
+s
+pressed: s, 0.000638008117676
+released: s, 0.0146110057831
+s
+pressed: s, 0.00102400779724
+released: s, 0.0146520137787
+s
+pressed: s, 0.0463070869446
+released: s, 0.014771938324
+s
+pressed: s, 0.0163660049438
+released: s, 0.0147650241852
+s
+pressed: s, 0.000784873962402
+released: s, 0.0147590637207
+s
+pressed: s, 0.000610113143921
+released: s, 0.0792369842529
+s
+pressed: s, 0.000676870346069
+released: s, 0.0160210132599
+s
+pressed: s, 0.00103306770325
+released: s, 0.0146119594574
+s
+pressed: s, 0.000615119934082
+released: s, 0.014643907547
+s
+pressed: s, 0.000653028488159
+released: s, 0.0147759914398
+s
+pressed: s, 0.0746569633484
+released: s, 0.0149109363556
+s
+pressed: s, 0.000638008117676
+released: s, 0.0153479576111
+s
+pressed: s, 0.000644207000732
+released: s, 0.0158259868622
+s
+pressed: s, 0.000910997390747
+released: s, 0.0168569087982
+s
+pressed: s, 0.000654935836792
+released: s, 0.015398979187
+s
+pressed: s, 0.00705814361572
+released: s, 0.014899969101
+s
+pressed: s, 0.0104939937592
+released: s, 0.0148110389709
+s
+pressed: s, 0.000629901885986
+released: s, 0.019623041153
+s
+pressed: s, 0.000982046127319
+released: s, 0.0146889686584
+s
+pressed: s, 0.000602960586548
+released: s, 0.0151419639587
+s
+pressed: s, 0.00065016746521
+released: s, 0.0239470005035
+s
+pressed: s, 0.0299007892609
+released: s, 0.0154712200165
+s
+pressed: s, 0.0141499042511
+released: s, 0.0303549766541
+s
+pressed: s, 0.000947952270508
+released: s, 0.0150771141052
+s
+pressed: s, 0.0148930549622
+released: s, 0.0147869586945
+s
+pressed: s, 0.0145690441132
+released: s, 0.0150759220123
+s
+pressed: s, 0.0160708427429
+released: s, 0.0148770809174
+s
+pressed: s, 0.0143949985504
+released: s, 0.0148019790649
+s
+pressed: s, 0.0156581401825
+released: s, 0.014899969101
+s
+pressed: s, 0.0155830383301
+released: s, 0.0147788524628
+s
+pressed: s, 0.0155370235443
+released: s, 0.0153999328613
+s
+pressed: s, 0.0143940448761
+released: s, 0.0148720741272
+s
+pressed: s, 0.0152950286865
+released: s, 0.0153160095215
+s
+pressed: s, 0.0148890018463
+released: s, 0.0147588253021
+s
+pressed: s, 0.0157952308655
+released: s, 0.0154469013214
+s
+pressed: s, 0.0141088962555
+released: s, 0.0148541927338
+s
+pressed: s, 0.0181858539581
+released: s, 0.0147321224213
+s
+pressed: s, 0.0133700370789
+released: s, 0.0148098468781
+s
+pressed: s, 0.0156919956207
+released: s, 0.0315301418304
+s
+pressed: s, 0.000683784484863
+released: s, 0.0146720409393
+s
+pressed: s, 0.0133121013641
+released: s, 0.0147309303284
+s
+pressed: s, 0.0159969329834
+released: s, 0.0153641700745
+s
+pressed: s, 0.0183780193329
+released: s, 0.0148258209229
+s
+pressed: s, 0.0129811763763
+released: s, 0.0150330066681
+s
+pressed: s, 0.0149970054626
+released: s, 0.0147159099579
+s
+pressed: s, 0.0149719715118
+released: s, 0.0150139331818
+s
+pressed: s, 0.0154981613159
+released: s, 0.0147960186005
+s
+pressed: s, 0.0182459354401
+released: s, 0.0147619247437
+s
+pressed: s, 0.0134580135345
+released: s, 0.0147440433502
+s
+pressed: s, 0.0157549381256
+released: s, 0.0151801109314
+s
+pressed: s, 0.0145499706268
+released: s, 0.0149118900299
+s
+pressed: s, 0.0155801773071
+released: s, 0.0149028301239
+s
+pressed: s, 0.0157799720764
+released: s, 0.0149390697479
+s
+pressed: s, 0.0147860050201
+released: s, 0.0148110389709
+s
+pressed: s, 0.0157339572906
+released: s, 0.0150740146637
+s
+pressed: s, 0.01553606987
+released: s, 0.014732837677
+s
+pressed: s, 0.0186500549316
+released: s, 0.0174760818481
+s
+pressed: s, 0.010421037674
+released: s, 0.0148839950562
+s
+pressed: s, 0.014575958252
+released: s, 0.0147910118103
+s
+pressed: s, 0.0158638954163
+released: s, 0.0148320198059
+s
+pressed: s, 0.015743970871
+released: s, 0.0147240161896
+s
+pressed: s, 0.0164260864258
+released: s, 0.0153119564056
+s
+pressed: s, 0.0149531364441
+released: s, 0.0148048400879
+s
+pressed: s, 0.0147709846497
+released: s, 0.0152790546417
+s
+pressed: s, 0.0152559280396
+released: s, 0.0147421360016
+s
+pressed: s, 0.0158309936523
+released: s, 0.0148320198059
+s
+pressed: s, 0.0149538516998
+released: s, 0.0147030353546
+s
+pressed: s, 0.0179941654205
+released: s, 0.0155839920044
+s
+pressed: s, 0.00103092193604
+released: s, 0.0153279304504
+s
+pressed: s, 0.000932931900024
+released: s, 0.0256090164185
+s
+pressed: s, 0.0309000015259
+released: s, 0.0148501396179
+s
+pressed: s, 0.0156500339508
+released: s, 0.0306668281555
+s
+pressed: s, 0.000955104827881
+released: s, 0.0154008865356
+s
+pressed: s, 0.0134720802307
+released: s, 0.0147309303284
+s
+pressed: s, 0.0171082019806
+released: s, 0.0152077674866
+s
+pressed: s, 0.0141801834106
+released: s, 0.0149328708649
+s
+pressed: s, 0.0192060470581
+released: s, 0.0147559642792
+s
+pressed: s, 0.0121910572052
+released: s, 0.0148119926453
+s
+pressed: s, 0.0148239135742
+released: s, 0.0148150920868
+s
+pressed: s, 0.015781879425
+released: s, 0.0148811340332
+s
+pressed: s, 0.0155789852142
+released: s, 0.0148189067841
+s
+pressed: s, 0.0158500671387
+released: s, 0.015331029892
+s
+pressed: s, 0.0158910751343
+released: s, 0.0172758102417
+s
+pressed: s, 0.0119481086731
+released: s, 0.0151109695435
+s
+pressed: s, 0.0154111385345
+released: s, 0.0147278308868
+s
+pressed: s, 0.0157260894775
+released: s, 0.015007019043
+s
+pressed: s, 0.0146110057831
+released: s, 0.0149760246277
+s
+pressed: s, 0.0172138214111
+released: s, 0.0147721767426
+s
+pressed: s, 0.0132730007172
+released: s, 0.0149009227753
+s
+pressed: s, 0.0155789852142
+released: s, 0.0203931331635
+s
+pressed: s, 0.0104529857635
+released: s, 0.0146889686584
+s
+pressed: s, 0.0156648159027
+released: s, 0.0147352218628
+s
+pressed: s, 0.0158498287201
+released: s, 0.0147590637207
+s
+pressed: s, 0.0157918930054
+released: s, 0.0147740840912
+s
+pressed: s, 0.01486992836
+released: s, 0.0147922039032
+s
+pressed: s, 0.0158038139343
+released: s, 0.0146939754486
+s
+pressed: s, 0.0183510780334
+released: s, 0.0147070884705
+s
+pressed: s, 0.0134978294373
+released: s, 0.0146911144257
+s
+pressed: s, 0.0147829055786
+released: s, 0.0147230625153
+s
+pressed: s, 0.0159990787506
+released: s, 0.0146958827972
+s
+pressed: s, 0.015860080719
+released: s, 0.0146820545197
+s
+pressed: s, 0.0162918567657
+released: s, 0.014918088913
+s
+pressed: s, 0.0152790546417
+released: s, 0.0151679515839
+s
+pressed: s, 0.0158109664917
+released: s, 0.0151350498199
+s
+pressed: s, 0.0141088962555
+released: s, 0.0310161113739
+s
+pressed: s, 0.000676870346069
+released: s, 0.0149459838867
+s
+pressed: s, 0.0150051116943
+released: s, 0.0148870944977
+s
+pressed: s, 0.0159177780151
+released: s, 0.0151131153107
+s
+pressed: s, 0.0139338970184
+released: s, 0.0149161815643
+s
+pressed: s, 0.0155379772186
+released: s, 0.0147738456726
+s
+pressed: s, 0.0149891376495
+released: s, 0.0148589611053
+s
+pressed: s, 0.0156350135803
+released: s, 0.0147850513458
+s
+pressed: s, 0.0159339904785
+released: s, 0.0150239467621
+s
+pressed: s, 0.0149700641632
+released: s, 0.0148420333862
+s
+pressed: s, 0.015368938446
+released: s, 0.0150330066681
+s
+pressed: s, 0.0146100521088
+released: s, 0.0174908638
+s
+pressed: s, 0.0130290985107
+released: s, 0.015704870224
+s
+pressed: s, 0.00240111351013
+released: s, 0.0154299736023
+s
+pressed: s, 0.00538301467896
+released: s, 0.0213398933411
+s
+pressed: s, 0.0300619602203
+released: s, 0.014778137207
+s
+pressed: s, 0.0157949924469
+released: s, 0.0147390365601
+s
+pressed: s, 0.0147578716278
+released: s, 0.0147039890289
+s
+pressed: s, 0.0159730911255
+released: s, 0.0147550106049
+s
+pressed: s, 0.015939950943
+released: s, 0.0152111053467
+s
+pressed: s, 0.015233039856
+released: s, 0.0148129463196
+s
+pressed: s, 0.0156829357147
+released: s, 0.0149259567261
+s
+pressed: s, 0.0147099494934
+released: s, 0.0147960186005
+s
+pressed: s, 0.0182189941406
+released: s, 0.0148270130157
+s
+pressed: s, 0.0123171806335
+released: s, 0.0147879123688
+s
+pressed: s, 0.0159809589386
+released: s, 0.0146970748901
+s
+pressed: s, 0.0156478881836
+released: s, 0.0147440433502
+s
+pressed: s, 0.0159480571747
+released: s, 0.0147409439087
+s
+pressed: s, 0.0157880783081
+released: s, 0.0151019096375
+s
+pressed: s, 0.0144829750061
+released: s, 0.0160591602325
+s
+pressed: s, 0.00104880332947
+d
+pressed: d, 0.0146191120148
+released: s, 0.0347790718079
+released: d, 0.168578863144
+s
+pressed: s, 0.282212972641
+released: s, 0.493675947189
+s
+pressed: s, 0.0106470584869
+released: s, 0.0193910598755
+s
+pressed: s, 0.0328950881958
+released: s, 0.0150899887085
+s
+pressed: s, 0.0131258964539
+released: s, 0.0148980617523
+s
+pressed: s, 0.0153758525848
+released: s, 0.0312721729279
+s
+pressed: s, 0.000682830810547
+released: s, 0.014683008194
+s
+pressed: s, 0.01459121704

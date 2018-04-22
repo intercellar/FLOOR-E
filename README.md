@@ -8,3 +8,5 @@ Ben Wasserman | benwasserman@ymail.com | Rice University Class of 2018 | BSEE, E
 Cody Peterson | cody.dkdc@gmail.com | Rice University Class of 2018 | BSEE, Electrical and Computer Engineering, Data Science | Microsoft
 
 Setup is not outlined in this github. Best of luck. 
+
+All passwords are "angleguardian", per our project before the singularity.
